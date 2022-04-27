@@ -6,10 +6,10 @@
 <h3 align="center">💬 Motivated tech enthusiast and Data Scientist from TURKEY 💬</h3>
 <div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/tommy-happy//">
+<a href="https://www.linkedin.com/in/ebubekir-a%C4%9Fa%C3%A7dan/">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:tommyhappy01@gmail.com">  
+<a href="mailto:ea.agacdan@gmail.com">  
   <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 <a href="https://-...-.medium.com">
@@ -18,7 +18,7 @@
 <a href="https://www.hackerrank.com/tommyhappy01">
   <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
 </a>
-<a href="https://github.com/Tommyhappy01">
+<a href="https://github.com/EbubekirAgacdan">
   <img align="center" src="https://komarev.com/ghpvc/?username=emir1031" alt="Emir"  width="16%"/>
 </a>
 </p>
